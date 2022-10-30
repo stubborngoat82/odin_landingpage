@@ -1,0 +1,43 @@
+.header {
+    display: flexbox;
+    justify-content: center;
+    background-color: #1F2937;
+
+}
+
+.footer {
+    background-color: #1F2937;
+    font-size: 18px;
+    color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+.main {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+
+}
+.random {
+
+
+}
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: var(light italic);
+
+
+}
+.action {
+
+
+
+}
+div {
+    display: flex;
+    font-family: 'Roboto';
+    font-size: 24px;
+    justify-content: center;
+    padding: 100px;
+}
